@@ -1,7 +1,7 @@
-<footer class="w-full flex absolute justify-center text-white h-[110px] bg-orange-900 bottom-0">
+<footer class="w-full flex fixed justify-center text-white h-[110px] bg-orange-800 bottom-0">
 
     <div class="mr-3 my-auto">
-        <h2 class="text-xl font-medium">Marina Frozen</h2>
+        <h2 class="text-2xl font-medium">Marina Frozen</h2>
         <p class="text-[0.60rem]">Copyright 2023</p>
         <div class="flex">
             <img src="" alt="Fb">
